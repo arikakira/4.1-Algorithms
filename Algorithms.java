@@ -149,7 +149,6 @@ public class Algorithms {
                 count1 = count2;
             }
         }
-        System.out.println("count: " + count1);
         return most;
     }
 }
